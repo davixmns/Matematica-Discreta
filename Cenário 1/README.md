@@ -35,5 +35,8 @@ Fortaleza que frequentaram o posto de saúde, mas não frequentaram a escola.
 Fortaleza que frequentaram o posto de saúde, mas não frequentaram a escola, nem
 utilizaram transporte público.
 
+Requisitos:
+Com o python instalado digite "python -m pip install -U matplotlib matplotlib_venn" no prompt de comando. Assim você poderá ver os diagramas de Venn que serão gerados
+
 Como usar:
 No final do arquivo "relatorios.py" descomente a função desejada e execute
