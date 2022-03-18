@@ -34,3 +34,6 @@ Fortaleza que frequentaram o posto de saúde, mas não frequentaram a escola.
 10) Informar nome, data de nascimento, data que tiveram dengue dos cidadãos de
 Fortaleza que frequentaram o posto de saúde, mas não frequentaram a escola, nem
 utilizaram transporte público.
+
+Como usar:
+No final do arquivo "relatorios.py" descomente a função desejada e execute
