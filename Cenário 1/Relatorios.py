@@ -353,7 +353,7 @@ def relatorioDez(dados): #RELATÓRIO 10
         intersecaoPostoOnibusAlunos), 
        set_labels=('Ônibus', 'Alunos', 'Posto'))
 
-    plt.title("Diagrama da questão 10")
+    plt.title("Diagrama do relatório 10")
     plt.show()
 
     filename = os.path.join(DIRETORIO_RELATORIOS, "RelatorioDez.csv")
@@ -377,5 +377,5 @@ if __name__ == "__main__":
     #relatorioSaudeMobilidade(dados)
     #relatorioSaudeMobilidadeEducacao(dados)
     #relatorioOitavo(dados)
-    #relatorioNono(dados)
+    relatorioNono(dados)
     #relatorioDez(dados)
